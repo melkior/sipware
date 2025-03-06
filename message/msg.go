@@ -1,5 +1,5 @@
 package message
 
 type Msg struct {
-	type int
+	ok int
 }
